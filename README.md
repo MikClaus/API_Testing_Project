@@ -37,3 +37,13 @@ How to get them: [Trello API Authorization Guide](https://developer.atlassian.co
   ### 📍 Create Board – POST /boards/
 - Status: `200 OK`
 - Screenshot: ![create-board](https://github.com/MikClaus/API_Testing_Project/blob/f3a7d187408727d0e6ac179c9066de0432ba1ad0/Screenschoots/createaboard.jpg)
+
+- 
+ ### 📍 Create a new list – POST /lists/
+
+- ✅ **Status Code**: `200 OK` — _passed_
+- ⏱ **Response Time**: `< 600 ms` — _passed_
+- 🔤 **Field Validation**: `name is a string` — _passed_
+
+#### 🖼 Screenshot:
+![create-board](https://github.com/MikClaus/API_Testing_Project/blob/467b794c25c53070cb5750f22250ed51f71cadd8/Screenschoots/Createanewlist.jpg)
