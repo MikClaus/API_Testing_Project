@@ -47,3 +47,16 @@ How to get them: [Trello API Authorization Guide](https://developer.atlassian.co
 
 #### 🖼 Screenshot:
 ![create-board](https://github.com/MikClaus/API_Testing_Project/blob/467b794c25c53070cb5750f22250ed51f71cadd8/Screenschoots/Createanewlist.jpg)
+
+### 📍 Create a new Card – POST /cards/
+
+- ❌ **Status Code**: `Expected 200` — _passed_  
+  
+- ⚠️ **Response Time**: `Expected < 200ms`, got `647ms` — _failed_  
+  > 🐢 Server was slower than expected.
+
+- ✅ **Field Validation**: `ID is a string` — _passed_
+
+#### 🖼 Screenshot:
+![create-board](https://github.com/MikClaus/API_Testing_Project/blob/a918ee6b6a5b3f79f8ff3a39c6e5e6c7d74e5a52/Screenschoots/createanewcard.jpg)
+
