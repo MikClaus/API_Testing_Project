@@ -33,3 +33,7 @@ How to get them: [Trello API Authorization Guide](https://developer.atlassian.co
 - 🧪 **Test Result**: Passed; Failed 
 - 🖼 **Screenshot**:  
   [GetBoards](https://github.com/MikClaus/API_Testing_Project/blob/e4809648571c9b2d46517fa22675552553c8efca/Screenschoots/Getboards_tests.jpg)
+
+  ### 📍 Create Board – POST /boards/
+- Status: `200 OK`
+- Screenshot: ![create-board](https://github.com/MikClaus/API_Testing_Project/blob/f3a7d187408727d0e6ac179c9066de0432ba1ad0/Screenschoots/createaboard.jpg)
