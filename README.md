@@ -32,4 +32,4 @@ How to get them: [Trello API Authorization Guide](https://developer.atlassian.co
 - 🗂 **Content-Type**: `application/json`
 - 🧪 **Test Result**: Passed; Failed 
 - 🖼 **Screenshot**:  
-  ![create-board](https://github.com/MikClaus/API_Testing_Project/blob/e4809648571c9b2d46517fa22675552553c8efca/Screenschoots/Getboards_tests.jpg)
+  [create-board](https://github.com/MikClaus/API_Testing_Project/blob/e4809648571c9b2d46517fa22675552553c8efca/Screenschoots/Getboards_tests.jpg)
