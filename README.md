@@ -60,3 +60,12 @@ How to get them: [Trello API Authorization Guide](https://developer.atlassian.co
 #### 🖼 Screenshot:
 ![create-board](https://github.com/MikClaus/API_Testing_Project/blob/a918ee6b6a5b3f79f8ff3a39c6e5e6c7d74e5a52/Screenschoots/createanewcard.jpg)
 
+### 🗑️ Delete Board – DELETE /boards/{id}
+
+- ✅ **Status Code**: 200 OK
+- 🧪 **Test Result**: Passed
+
+#### 🖼 Screenshot:
+![delete-board](https://github.com/MikClaus/API_Testing_Project/blob/bc16aa2e87941c7d59494a9bac1e6c5427cd670a/Screenschoots/Deleteaboard.jpg)
+
+
