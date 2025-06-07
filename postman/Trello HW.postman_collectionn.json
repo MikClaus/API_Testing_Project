@@ -157,7 +157,7 @@
 						},
 						{
 							"key": "idBoard",
-							"value": "X"
+							"value": "{{ApiKey}"
 						},
 						{
 							"key": "key",
@@ -217,7 +217,7 @@
 					"query": [
 						{
 							"key": "idList",
-							"value": "Y"
+							"value": "{{ApiKey}}"
 						},
 						{
 							"key": "key",
@@ -294,12 +294,12 @@
 	"variable": [
 		{
 			"key": "apiKey",
-			"value": "Y",
+			"value": "{{ApiKey}}",
 			"type": "string"
 		},
 		{
 			"key": "apiToken",
-			"value": "X",
+			"value": "{{ApiToken}}",
 			"type": "string"
 		}
 	]
