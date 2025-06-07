@@ -17,10 +17,6 @@ This is a pet project for practicing API testing using Trello's real REST API. I
 3. Add `apiKey` and `apiToken` to the Postman variables
 4. Run the test by clicking the "Run collection" button
 
-##  Authorization
-To send requests to Trello API, you need an `API Key` and `Token`.  
-How to get them: [Trello API Authorization Guide](https://developer.atlassian.com/cloud/trello/guides/rest-api/authorization/)
-
 ### 📦 Postman Collection
 - [Trello API Test Collection]([postman/trello_api_collection.json](https://github.com/MikClaus/API_Testing_Project/blob/3af60ca9da3bebadfada75250d1d0c5454d33163/postman/Trello%20HW.postman_collectionn.json)
 
