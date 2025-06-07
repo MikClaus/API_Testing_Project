@@ -3,24 +3,19 @@
 ##  Description
 This is a pet project for practicing API testing using Trello's real REST API. I tested how to create, get, and delete a Trello board using Postman.
 
+
 ##  Tools
 - Postman
 - Trello Developer API
 - JSON
 - GitHub
 
- ## How to run this Postman collection
-Create a Postman Environment (or a .env file for local use) and define the following variables:
+### ▶️ How to Run the Tests
 
-- apiKey — your Trello API Key
-
-- apiToken — your Trello API Token
-
-- boardId — the ID of the test board (used for deleting or creating lists)
-
-Fill these variables with your actual keys, which you can get from the Trello developer console.
-
-In Postman, select this environment before running the requests.
+1. Obtain your `API key` and `token` from the [Trello API docs](https://developer.atlassian.com/cloud/trello/guides/rest-api/authorization/)
+2. Import the collection into Postman
+3. Add `apiKey` and `apiToken` to the Postman variables
+4. Run the test by clicking the "Run collection" button
 
 ##  Authorization
 To send requests to Trello API, you need an `API Key` and `Token`.  
@@ -84,4 +79,6 @@ How to get them: [Trello API Authorization Guide](https://developer.atlassian.co
 
 #### 🖼 Screenshot:
 ![delete-board](https://github.com/MikClaus/API_Testing_Project/blob/bc16aa2e87941c7d59494a9bac1e6c5427cd670a/Screenschoots/Deleteaboard.jpg)
+
+
 
