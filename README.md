@@ -12,11 +12,11 @@ This is a pet project for practicing API testing using Trello's real REST API. I
  ## How to run this Postman collection
 Create a Postman Environment (or a .env file for local use) and define the following variables:
 
- apiKey — your Trello API Key
+- apiKey — your Trello API Key
 
- apiToken — your Trello API Token
+- apiToken — your Trello API Token
 
- boardId — the ID of the test board (used for deleting or creating lists)
+- boardId — the ID of the test board (used for deleting or creating lists)
 
 Fill these variables with your actual keys, which you can get from the Trello developer console.
 
