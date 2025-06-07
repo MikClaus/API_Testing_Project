@@ -26,6 +26,10 @@ In Postman, select this environment before running the requests.
 To send requests to Trello API, you need an `API Key` and `Token`.  
 How to get them: [Trello API Authorization Guide](https://developer.atlassian.com/cloud/trello/guides/rest-api/authorization/)
 
+### 📦 Postman Collection
+- [Trello API Test Collection]([postman/trello_api_collection.json](https://github.com/MikClaus/API_Testing_Project/blob/3af60ca9da3bebadfada75250d1d0c5454d33163/postman/Trello%20HW.postman_collectionn.json)
+
+
 ## 📋 Tested Requests
 
 | request | Endpoint                 | Description          |
@@ -80,7 +84,4 @@ How to get them: [Trello API Authorization Guide](https://developer.atlassian.co
 
 #### 🖼 Screenshot:
 ![delete-board](https://github.com/MikClaus/API_Testing_Project/blob/bc16aa2e87941c7d59494a9bac1e6c5427cd670a/Screenschoots/Deleteaboard.jpg)
-
-### 📦 Postman Collection
-- [Trello API Test Collection]([postman/trello_api_collection.json](https://github.com/MikClaus/API_Testing_Project/blob/3af60ca9da3bebadfada75250d1d0c5454d33163/postman/Trello%20HW.postman_collectionn.json)
 
